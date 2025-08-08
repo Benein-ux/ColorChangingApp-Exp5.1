@@ -1,4 +1,4 @@
-1.Download ZIP
+1.Download ZIP <br>
 2.Extract the ZIP file to any folder on your computer
 3.Open Android Studio
 4.Click File > Open
